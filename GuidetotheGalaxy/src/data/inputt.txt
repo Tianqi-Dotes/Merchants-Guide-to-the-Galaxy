@@ -1,0 +1,11 @@
+rr is I
+ee is V
+ss is X
+zz is L
+tt is C
+ff is D
+gg is M
+how much is gg tt gg ss zz rr ee ?
+how much is tt gg ss tt ee ?
+how much is gg tt tt ss tt rr ?
+how much is gg gg tt ss ss ee rr ?
